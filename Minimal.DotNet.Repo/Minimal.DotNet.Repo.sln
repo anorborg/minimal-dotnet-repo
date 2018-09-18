@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimal.Standard.Library", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimal.Console", "..\Minimal.Console\Minimal.Console.csproj", "{3B2F4FE3-4C4C-41CB-8371-13B665BB83B5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minimal.DotNet.WebApi", "..\Minimal.DotNet.WebApi\Minimal.DotNet.WebApi.csproj", "{600D6263-8401-4626-B9C9-B40E1F570481}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -44,5 +46,17 @@ Global
 		{3B2F4FE3-4C4C-41CB-8371-13B665BB83B5}.Release|x64.Build.0 = Release|Any CPU
 		{3B2F4FE3-4C4C-41CB-8371-13B665BB83B5}.Release|x86.ActiveCfg = Release|Any CPU
 		{3B2F4FE3-4C4C-41CB-8371-13B665BB83B5}.Release|x86.Build.0 = Release|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Debug|x64.Build.0 = Debug|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Debug|x86.Build.0 = Debug|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Release|Any CPU.Build.0 = Release|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Release|x64.ActiveCfg = Release|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Release|x64.Build.0 = Release|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Release|x86.ActiveCfg = Release|Any CPU
+		{600D6263-8401-4626-B9C9-B40E1F570481}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
